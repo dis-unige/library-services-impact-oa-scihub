@@ -1,6 +1,6 @@
 # Measuring the impact of Open Access and Sci-Hub on the academic library services
 
-This repo contains all the code use in the analysis performed in the study prsented on 04/12/2017 at the "15th Interlending and Document Supply Conference (ILDS) - Paris, October 2017" www.ilds2017.org
+This repo contains all the code used for the study prsented on 04/12/2017 at the "15th Interlending and Document Supply Conference (ILDS) - Paris, October 2017" www.ilds2017.org
 
 ## Authors
 * Floriane Muller<sup>1</sup> , floriane.muller@unige.ch, +41 22 379 50 92
@@ -16,3 +16,7 @@ The University of Geneva library has seen, like others around the world, a sligh
 
 Working a reverse way, we checked in WoS all the papers published in 2015 and 2016 by authors affiliated in Geneva University STM faculties (3’833 and 3’989 articles respectively). Then we extracted all the references cited in those papers (364’445 references, 80% having DOIs) and enriched them with more identifiers, bibliographic data and access information, using bibliographic APIs from CrossRef and NLM, oaDOI for the Open Access corpus, and open data sets from Dryad, figshare and Zenodo for Sci-Hub data. Finally we confronted this cited information to our ILL/DD orders database, electronic and print journals databases. This deep comparison gives us a much more informed insight into our scholars’ practices and allows us to measure the impact of piracy and Open Access growth on the academic library services.
 
+## License
+Code & Presentation are licensed under a Creative Commons Attribution 4.0 International License.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
